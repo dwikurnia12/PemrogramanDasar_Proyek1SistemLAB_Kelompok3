@@ -8,7 +8,6 @@ class LayananLaporan:
             if nim not in self.mahasiswa:
                 print("Mahasiswa tidak ditemukan.")
                 return
-
             hasil = [
                 t for t in self.transaksi.values()
                 if t.nim_mahasiswa == nim
@@ -16,7 +15,6 @@ class LayananLaporan:
             if not hasil:
                 print("Belum memiliki riwayat peminjaman.")
                 return
-
             for t in hasil:
                 print(f"\n{t}")
                 for item in t.item:
@@ -26,7 +24,6 @@ class LayananLaporan:
                         f"{'kembali' if item.dikembalikan else 'dipinjam'}, "
                         f"kondisi akhir: {kondisi}"
                     )
-
         def statistik_peminjaman(self):
             print("\n=== STATISTIK PEMINJAMAN ===")
 
@@ -65,7 +62,6 @@ class LayananLaporan:
                         f"{self.mahasiswa[nim_terbanyak].nama} "
                         f"({hitung[nim_terbanyak]} transaksi)"
                     )
-
         def tampilkan_log(self):
             self.log.tampilkan()
 
