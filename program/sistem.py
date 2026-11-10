@@ -1,3 +1,4 @@
+"""Menggabungkan seluruh layanan aplikasi laboratorium."""
 from .layanan.sistem_inti import SistemInti
 from .layanan.mahasiswa_service import LayananMahasiswa
 from .layanan.peralatan_service import LayananPeralatan
@@ -14,4 +15,5 @@ class SistemLaboratorium(
     LayananLaporan,
     LayananMenu,
 ):
+    """Satu objek sistem yang menyediakan seluruh fitur aplikasi."""
     pass

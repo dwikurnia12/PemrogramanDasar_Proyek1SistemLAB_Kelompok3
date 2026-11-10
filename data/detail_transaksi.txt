@@ -1,0 +1,4 @@
+T001|A001|dikembalikan|baik|2026-08-11
+T002|A002|dikembalikan|baik|2026-08-12
+T002|A003|dikembalikan|baik|2026-08-12
+T003|A004|dikembalikan|baik|2026-08-13
