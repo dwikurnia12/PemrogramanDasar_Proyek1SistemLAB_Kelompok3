@@ -1,5 +1,6 @@
 from datetime import datetime
 
+
 class LogAktivitas:
     def __init__(self):
         self.logs = []

@@ -1,9 +1,9 @@
 class Mahasiswa:
-    def __init__(self, nim, nama, no_hp):
+    def __init__(self, nim, nama, no_hp, status_aktif_peminjaman=False):
         self.nim = nim
         self.nama = nama
         self.no_hp = no_hp
-        self.status_aktif_peminjaman = False
+        self.status_aktif_peminjaman = status_aktif_peminjaman
 
     def __str__(self):
         status = "Aktif" if self.status_aktif_peminjaman else "Tidak ada"
