@@ -2,3 +2,6 @@ T001|A001|dikembalikan|baik|2026-08-11
 T002|A002|dikembalikan|baik|2026-08-12
 T002|A003|dikembalikan|baik|2026-08-12
 T003|A004|dikembalikan|baik|2026-08-13
+T004|A001|dikembalikan|rusak ringan|2026-11-12
+T005|A002|dikembalikan|rusak berat|2026-11-12
+T006|A002|dikembalikan|rusak berat|2026-11-12

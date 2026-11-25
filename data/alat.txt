@@ -1,5 +1,5 @@
-A001|Laptop|Perangkat Komputasi|baik|tersedia|1
-A002|Kamera Digital|Perangkat Multimedia|baik|tersedia|1
+A001|Laptop|Perangkat Komputasi|rusak ringan|tidak tersedia|2
+A002|Kamera Digital|Perangkat Multimedia|rusak berat|tidak tersedia|3
 A003|Tripod|Perangkat Multimedia|baik|tersedia|1
 A004|Kabel LAN|Perangkat Jaringan|baik|tersedia|1
 A005|Multimeter|Perangkat Elektronika|baik|tersedia|0
@@ -8,3 +8,4 @@ A007|Mikrokontroler|Perangkat Elektronika|baik|tersedia|0
 A008|Proyektor|Perangkat Presentasi|baik|tersedia|0
 A009|Mikrofon|Perangkat Audio|baik|tersedia|0
 A010|Oscilloscope|Perangkat Elektronika|baik|tersedia|0
+A011|Lighting|Perangkat Multimedia|baik|tersedia|0

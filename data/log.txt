@@ -1,0 +1,13 @@
+[2026-11-12 09:00] Mahasiswa M006 ditambahkan
+[2026-11-12 09:01] Alat Lighting ditambahkan
+[2026-11-12 09:01] Alat Lighting dihapus
+[2026-11-12 09:02] Alat A011 ditambahkan
+[2026-11-12 09:03] Transaksi T004 dibuat oleh mahasiswa M001
+[2026-11-12 09:04] Alat A001 dikembalikan dari transaksi T004 dengan kondisi rusak ringan
+[2026-11-12 09:04] Transaksi T005 dibuat oleh mahasiswa M002
+[2026-11-12 09:05] Alat A002 dikembalikan dari transaksi T005 dengan kondisi rusak berat
+[2026-11-12 09:06] Alat A002 dimasukkan ke pemeliharaan
+[2026-11-12 09:06] Pemeliharaan alat A002 selesai; alat tersedia kembali
+[2026-11-12 09:07] Transaksi T006 dibuat oleh mahasiswa M002
+[2026-11-12 09:08] Alat A002 dikembalikan dari transaksi T006 dengan kondisi rusak berat
+[2026-11-12 09:09] Alat A002 dimasukkan ke pemeliharaan
